@@ -1,5 +1,6 @@
 {
   "name": "personal_portfolios",
+  "homepage": "https://ruohan-chen.github.io/Personal-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
